@@ -39,8 +39,8 @@ List<String> favoriteDescriptions = [];
 List<String> favoriteRatings = [];
 List<String> favoriteGenres = [];
 class _HomePageState extends State<HomePage> {
-  String apiKey = "dcd69c6b6c0172ae1cdb7f1ad87d72fc";
-  String readAccesKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkY2Q2OWM2YjZjMDE3MmFlMWNkYjdmMWFkODdkNzJmYyIsInN1YiI6IjYyY2FjZmZmNGI5YmFlMGE1MGNhY2E3NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.1aN-qEKLYRXPjTG1-RyOqWVrj2FvyBMS6C_yHDZCW8U";
+  String apiKey = "key";
+  String readAccesKey = "key2";
   List trendingmovies = [];
   List trendingTitles = [];
   TextEditingController editingController = TextEditingController();
